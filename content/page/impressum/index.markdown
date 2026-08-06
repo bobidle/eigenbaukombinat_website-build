@@ -17,6 +17,7 @@ Vertreten durch die einzeln vertretungsberechtigten Mitglieder des Vorstands:
 * Sophie Raven Tauchert
 * Christopher Thum
 * Frank Schulz
+* Moritz Bergander
 
 Anschrift wie oben  
 [kontakt@eigenbaukombinat.de](mailto:kontakt@eigenbaukombinat.de)

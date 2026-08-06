@@ -17,6 +17,7 @@ represented by the individual representatives of the Board:
 * Sophie Raven Tauchert
 * Christopher Thum
 * Frank Schulz
+* Moritz Bergander
 
 inscription as above 
 [kontakt@eigenbaukombinat.de](mailto:kontakt@eigenbaukombinat.de)
