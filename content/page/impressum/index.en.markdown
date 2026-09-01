@@ -14,7 +14,6 @@ Landsberger Straße 3
 
 represented by the individual representatives of the Board:
 
-* Sophie Raven Tauchert
 * Christopher Thum
 * Frank Schulz
 * Moritz Bergander
